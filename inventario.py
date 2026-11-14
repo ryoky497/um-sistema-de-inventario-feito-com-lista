@@ -1,4 +1,3 @@
-# mandar pro github
 inventario = ["espada", "capacete", "peitoral", "calças", "bota"]
 while True:
   pergunta = input("oq deseja realizar? ").capitalize()
